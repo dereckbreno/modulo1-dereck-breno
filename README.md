@@ -1,6 +1,5 @@
-## Receita de bolo de chocolate
-- 2 xícaras de farinha
-- 3 ovos
-- 1 xícara de açucar
-- 1 xícara de chocolate em pó
-- 1 xícara de leite
+### Receita de macarrão com queijo
+1 pacote de macarrão
+200g de queijo ralado
+1 copo de leite
+sal a gosto
